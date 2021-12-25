@@ -6,7 +6,7 @@
 - 👯 Procuro colaborar em projetos, trabalhar em uma compania e obter o nowhow para gerar empregos e futuro melhoer para o mundo ...
 - 🤔 Procuro ajuda em aprender as coias mais complexas, adaptação em um novo local de trabalho ...
 - 💬 Faça-me uma questão nas minhas redes socias 
-- 📫 Envia um E-mail:jambapedrojoao@gmail.com  - WhatsApp: +244 934869221
+- 📫 Envia um E-mail:jambapedrojoao@gmail.com 
 - 😄 - Já percebeu o quanto é fantastico aprender soluções que possam ser usadas no dia-a-dia? Muito massa, show! é a minha maior motivação.
 - ⚡ Gosto de Annime, séries de TI, game, play footebol
 
