@@ -1,9 +1,9 @@
 # Olá 😃👋
 ### Sou João Jamba, um eterno aprendiz e fazedor de um mundo melhor! 
 
-![2048px-Unofficial_JavaScript_logo_2 svg](https://user-images.githubusercontent.com/54918856/161247071-0c71d946-bfb3-4464-aaaa-83309ee44eae.png)
-![Git-Icon-1788C](https://user-images.githubusercontent.com/54918856/161246965-aa418ffa-c7ab-4e5e-ae26-350f6cb1d9d5.png)
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
+  
+  ##
 
 - 🔭 Universidade UnIA (Eng Informático) ...
 - 🌱 Estudando tecnologias | Fullstack Javasript com React & Node.js | design gráfico & UI-UX
