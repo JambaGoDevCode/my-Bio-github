@@ -1,8 +1,9 @@
 # Olá 😃👋
 ### Sou João Jamba, um eterno aprendiz e fazedor de um mundo melhor! 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
-  
+<div style="display">
+  <img align="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
+</div>
   ##
 
 - 🔭 Universidade UnIA (Eng Informático) ...
